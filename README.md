@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://github.com/javaniket/Bank-Management-System/blob/c9c0b8ed43b7955eed52358bba1adbe7a405ac7c/src/icons/BANKMANAGEMENT.png"></a>
+ <img width=200px height=200px src="https://github.com/javaniket/Bank-Management-System/blob/cf93bd0b364c27741ef8b91a4608c332ec44aba6/src/icons/BANKMANAGEMENT.png"></a>
 </p>
 
 <h3 align="center">Bank Management System using Java</h3>
